@@ -1,9 +1,9 @@
-## Empower HR: Unveiling the Secrets of Attrition and Training Efficacy
+# Empower HR: Unveiling the Secrets of Attrition and Training Efficacy
 
-Brief Introduction:
+## Brief Introduction:
 This report aims to provide insights into two key aspects of human resource management: employee attrition and training program effectiveness. The analysis is based on HR data that includes various metrics like age, department, performance ratings, and more.
 
-Objectives:
+## Objectives:
 The project focuses on two primary objectives:
 
 To determine the factors contributing to employee attrition and provide insights for reducing attrition rates.
@@ -50,7 +50,8 @@ Even employees with a high-performance rating of 5.0 have a significant attritio
 Employees with a performance rating of 3.0 have the lowest attrition rate at 23.08%.
 It's intriguing that employees with higher performance ratings are more likely to leave the company.
 empower hr 3
-Recommendations
+
+## Recommendations
 Given the high attrition rates in the Finance and IT departments, targeted retention programs may be effective. This could include mentorship programs, work-life balance initiatives, and career development plans.
 Employees with 2 years and those with 7-10 years of service are leaving at high rates. For newer employees, improved onboarding and mentorship could help. For veterans, new career growth opportunities or skill diversification may be beneficial.
 Surprisingly, employees in higher salary brackets are leaving more frequently. This could indicate that the issue is not salary but other factors like work culture, growth opportunities, or job satisfaction. A comprehensive review could help understand this counterintuitive trend.
