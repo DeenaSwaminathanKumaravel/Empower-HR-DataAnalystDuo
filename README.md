@@ -1,4 +1,5 @@
-Empower HR: Unveiling the Secrets of Attrition and Training Efficacy
+## Empower HR: Unveiling the Secrets of Attrition and Training Efficacy
+
 Brief Introduction:
 This report aims to provide insights into two key aspects of human resource management: employee attrition and training program effectiveness. The analysis is based on HR data that includes various metrics like age, department, performance ratings, and more.
 
